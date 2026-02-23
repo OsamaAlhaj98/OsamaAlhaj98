@@ -1,7 +1,7 @@
 👋 Hi, I'm Osama Alhaj
-🚀 Supply Chain | Automation | SCADA | Engineering | Instructor
+🚀 Automation | SCADA | Engineering | Instructor
 
-I am a technically driven professional with a strong foundation in Mechatronic Engineering, Logistics, and Supply Chain Management, combined with hands-on experience in automation systems, data-driven operations, and technical training. My work focuses on bridging the gap between engineering, operations, and digital transformation.
+I am a technically driven professional with a strong foundation in Mechatronic Engineering, combined with hands-on experience in automation systems, data-driven operations, and technical training. My work focuses on bridging the gap between engineering, operations, and digital transformation.
 
 Currently, I am developing projects in Industrial Automation, SCADA systems, and real-time data monitoring to demonstrate practical problem-solving and industry-ready skills.
 
